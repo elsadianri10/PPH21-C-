@@ -1,3 +1,3 @@
 # PPH21-CPP
 
-Maaf masih ada kecacatan
+Maaf jika masih ada kecacatan
